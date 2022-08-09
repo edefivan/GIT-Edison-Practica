@@ -1,7 +1,7 @@
 # Título de mi proyecto.
 
-**    **Proyecto de Git**
-**
+    **Proyecto de Git**
+
 [//]:# (Listas enumeradas)
-    1. Index.html
-    2. information.txt
+        1. Index.html
+        2. information.txt
