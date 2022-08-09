@@ -1,6 +1,6 @@
 # Título de mi proyecto.
 
-    **Proyecto de Git**
+**Proyecto Git**
 
 [//]:# (Listas enumeradas)
         1. Index.html
